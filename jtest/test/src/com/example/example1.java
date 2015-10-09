@@ -31,7 +31,7 @@ public class example1 {
 			}
 			c++;
 		}
-		
+		//some change
 		System.out.println(c + " " + sw);
 		sc.close();
 	}
